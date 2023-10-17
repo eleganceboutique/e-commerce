@@ -1,5 +1,25 @@
-export default function Button() {
+/* eslint-disable react/prop-types */
+import { Touchable } from './styles';
+
+export default function Button({
+  backgroundColor,
+  textColor,
+  borderColor,
+  text,
+  borderRadius,
+  borderWidth,
+  borderStyle,
+}) {
   return (
-    <h1>Button</h1>
+    <Touchable
+      backgroundColor={backgroundColor}
+      textColor={textColor}
+      borderColor={borderColor}
+      borderWidth={borderWidth}
+      borderStyle={borderStyle}
+      borderRadius={borderRadius}
+    >
+      {text}
+    </Touchable>
   );
 }

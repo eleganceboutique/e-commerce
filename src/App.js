@@ -7,6 +7,21 @@ function App() {
     <ThemeProvider theme={theme}>
       <GlobalStyle />
       <h1>E-commerce</h1>
+      {/* <Button
+        text="Comprar mais"
+        backgroundColor="transparent"
+        textColor="#fff"
+        borderColor="#fff"
+        borderWidth="3.5px"
+        borderStyle="solid"
+      />
+      <Button
+        text="Ver mais"
+        backgroundColor="#024E82"
+        textColor="white"
+        borderWidth="0px"
+        hoverBackgroundColor="purple"
+      /> */}
     </ThemeProvider>
   );
 }
