@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import theme from "../../theme";
 
 
 export const Container = styled.header`
@@ -27,9 +28,9 @@ export const Elipse = styled.div`
   border-radius: 50%;
   color: #fff;
   font-size: 0.7rem;
-  background: #024E82;
+  background: ${theme.colors.primary};
 
   @media (max-width: 440px) {
-    top: 40px;
+    top: 41px;
   }
 `

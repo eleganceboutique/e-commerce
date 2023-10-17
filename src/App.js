@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'styled-components';
-import Header from './components/Header';
 import { GlobalStyle } from './global';
+import Home from './pages/Home';
 import theme from './theme';
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
         textColor="white"
         borderWidth="0px"
       /> */}
-      <Header />
+      <Home />
     </ThemeProvider>
   );
 }
