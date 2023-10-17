@@ -9,7 +9,6 @@ export const Container = styled.footer`
 
   background: #E8E8E8;
 
-  margin-top: 300px;
 
   div {
     display: flex;
