@@ -8,6 +8,12 @@ export const Container = styled.header`
   align-items: center;
   padding: 8px 35px 8px 35px;
   background: #fff !important;
+
+  h1 {
+    color: #daa520;
+    font-family: ${theme.fonts.logo};
+    text-transform: uppercase;
+  }
 `
 
 export const Icons = styled.div`
