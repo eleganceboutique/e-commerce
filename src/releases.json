@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta Básica",
+      "description": "Uma camiseta de algodão confortável para o uso diário.",
+      "price": 29.99,
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": ["Branco", "Preto", "Cinza", "Azul"],
+      "stock": 100,
+      "image_url": "https://images.unsplash.com/photo-1578854955076-970394ef2512?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Calça Jeans Slim",
+      "description": "Uma calça jeans elegante e ajustada para homens e mulheres.",
+      "price": 59.99,
+      "sizes": ["26", "28", "30", "32", "34"],
+      "colors": ["Azul Escuro", "Preto", "Azul Claro"],
+      "stock": 75,
+      "image_url": "https://images.unsplash.com/photo-1611955874253-78c6c3959c41?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Vestido de Verão",
+      "description": "Um vestido leve e colorido para os dias quentes.",
+      "price": 39.99,
+      "sizes": ["S", "M", "L"],
+      "colors": ["Amarelo Floral", "Rosa Pastel", "Azul Marinho"],
+      "stock": 50,
+      "image_url": "https://images.unsplash.com/photo-1590330297626-d7aff25a0431?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Sapatos de Salto Alto",
+      "description": "Sapatos elegantes para ocasiões especiais.",
+      "price": 49.99,
+      "sizes": ["35", "36", "37", "38", "39", "40"],
+      "colors": ["Vermelho", "Preto", "Dourado"],
+      "stock": 30,
+      "image_url": "https://images.unsplash.com/photo-1538329972958-465d6d2144ed?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Camiseta Básica",
+      "description": "Uma camiseta de algodão confortável para o uso diário.",
+      "price": 29.99,
+      "sizes": ["P", "M", "G", "GG"],
+      "colors": ["Branco", "Preto", "Cinza", "Azul"],
+      "stock": 100,
+      "image_url": "https://plus.unsplash.com/premium_photo-1669824376681-2a999a6facb0?auto=format&fit=crop&q=80&w=1883&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Calça Jeans Slim",
+      "description": "Uma calça jeans elegante e ajustada para homens e mulheres.",
+      "price": 59.99,
+      "sizes": ["26", "28", "30", "32", "34"],
+      "colors": ["Azul Escuro", "Preto", "Azul Claro"],
+      "stock": 75,
+      "image_url": "https://images.unsplash.com/photo-1542327534-59a1fe8daf73?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "Vestido de Verão",
+      "description": "Um vestido leve e colorido para os dias quentes.",
+      "price": 39.99,
+      "sizes": ["S", "M", "L"],
+      "colors": ["Amarelo Floral", "Rosa Pastel", "Azul Marinho"],
+      "stock": 50,
+      "image_url": "https://images.unsplash.com/photo-1630079632812-ad825086ac4e?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}

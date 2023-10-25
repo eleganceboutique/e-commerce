@@ -4,20 +4,18 @@ import { Touchable } from './styles';
 export default function Button({
   backgroundColor,
   textColor,
-  borderColor,
   text,
   borderRadius,
-  borderWidth,
-  borderStyle,
+  border,
+  fontSize,
 }) {
   return (
     <Touchable
       backgroundColor={backgroundColor}
       textColor={textColor}
-      borderColor={borderColor}
-      borderWidth={borderWidth}
-      borderStyle={borderStyle}
+      border={border}
       borderRadius={borderRadius}
+      fontSize={fontSize}
     >
       {text}
     </Touchable>
